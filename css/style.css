@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    border-radius:2em;
 }
 
 body {
@@ -21,6 +22,8 @@ img {
     height: 530px;
     width: 500px;
     overflow: hidden;
+    border-bottom-left-radius:0.9em;
+    border-bottom-right-radius:0.9em;
 }
 
 .image-container {
